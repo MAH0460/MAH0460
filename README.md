@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MAH0460
+- 👋 Hi, I’m Aashutosh 
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning coumputer science engineering
-- 💞️ I’m looking to collaborate on ml projects
+- 🌱 Working on Java, Nodejs, Spring, Angular, Python
+- ⚒️ Database experience of Postgresql and Mongodb
 - 📫 How to reach me : My email : mahia020005@gmail.com
 
 <!---
